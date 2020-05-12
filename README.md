@@ -13,3 +13,4 @@ This repository contains the solutions I submitted during the May Leetcoding Cha
 * Day 9 - https://leetcode.com/problems/valid-perfect-square/
 * Day 10 - https://leetcode.com/problems/find-the-town-judge/
 * Day - 11 - https://leetcode.com/problems/flood-fill/
+* Day - 12 - https://leetcode.com/problems/single-element-in-a-sorted-array/
