@@ -21,3 +21,4 @@ This repository contains the solutions I submitted during the May Leetcoding Cha
 * Day 17 - https://leetcode.com/problems/find-all-anagrams-in-a-string/
 * Day 18 - https://leetcode.com/problems/permutation-in-string/
 * Day 19 - https://leetcode.com/problems/online-stock-span/
+* Day 20 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
