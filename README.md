@@ -30,3 +30,4 @@ This repository contains the solutions I submitted during the May Leetcoding Cha
 * Day 26 - https://leetcode.com/problems/contiguous-array/
 * Day 27 - https://leetcode.com/problems/possible-bipartition/
 * Day 28 - https://leetcode.com/problems/counting-bits/
+* Day 29 - https://leetcode.com/problems/course-schedule/
