@@ -33,3 +33,10 @@ This repository contains the solutions I submitted during the May Leetcoding Cha
 * Day 29 - https://leetcode.com/problems/course-schedule/
 * Day 30 - https://leetcode.com/problems/k-closest-points-to-origin/
 * Day 31 - https://leetcode.com/problems/edit-distance/
+
+
+# June-Leetcoding-Challenge
+
+This repository contains the solutions I submitted during the June Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+
+* Day 1 - https://leetcode.com/problems/invert-binary-tree/
