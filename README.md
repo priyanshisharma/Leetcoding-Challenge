@@ -43,3 +43,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 2 - https://leetcode.com/problems/delete-node-in-a-linked-list/
 * Day 3 - https://leetcode.com/problems/two-city-scheduling/
 * Day 4 - https://leetcode.com/problems/reverse-string/
+* Day 5 - https://leetcode.com/problems/random-pick-with-weight/
