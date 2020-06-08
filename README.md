@@ -44,3 +44,6 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 3 - https://leetcode.com/problems/two-city-scheduling/
 * Day 4 - https://leetcode.com/problems/reverse-string/
 * Day 5 - https://leetcode.com/problems/random-pick-with-weight/
+* Day 6 - https://leetcode.com/problems/queue-reconstruction-by-height/
+* Day 7 - https://leetcode.com/problems/coin-change-2/
+* Day 8 - https://leetcode.com/problems/power-of-two/
