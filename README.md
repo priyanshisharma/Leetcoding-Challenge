@@ -48,3 +48,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 7 - https://leetcode.com/problems/coin-change-2/
 * Day 8 - https://leetcode.com/problems/power-of-two/
 * Day 9 - https://leetcode.com/problems/is-subsequence/
+* Day 10 - https://leetcode.com/problems/search-insert-position/
