@@ -2,13 +2,12 @@ class RandomizedSet {
 public:
     /** Initialize your data structure here. */
     
-
-    
     unordered_map<int,int> loc;   //Since elements should not be repeated set would'be been appropriate
     //to maintain connectivity with vector defined below a map has been chosen.
     vector<int> v;  //to fetch value in O(1) time a vector is apt
     
-    RandomizedSet() {
+    RandomizedSet() 
+    {
         loc.clear();
         v.clear();
     }
@@ -31,6 +30,7 @@ public:
         if(loc.find(val) == loc.end())
             return false;
 
+        //Note position of element in vector doesn't matter if appropriately connected by map
         int pos = loc[val];
         int end = v[v.size()-1];
         
