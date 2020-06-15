@@ -50,3 +50,7 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 9 - https://leetcode.com/problems/is-subsequence/
 * Day 10 - https://leetcode.com/problems/search-insert-position/
 * Day 11 - https://leetcode.com/problems/sort-colors/
+* Day 12 - https://leetcode.com/problems/insert-delete-getrandom-o1/
+* Day 13 - https://leetcode.com/problems/largest-divisible-subset/
+* Day 14 - https://leetcode.com/problems/cheapest-flights-within-k-stops/
+* Day 15 - https://leetcode.com/problems/search-in-a-binary-search-tree/
