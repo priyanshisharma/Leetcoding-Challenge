@@ -56,3 +56,8 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 15 - https://leetcode.com/problems/search-in-a-binary-search-tree/
 * Day 16 - https://leetcode.com/problems/validate-ip-address/
 * Day 17 - https://leetcode.com/problems/surrounded-regions/
+* Day 18 - https://leetcode.com/problems/h-index-ii/
+* Day 19 - https://leetcode.com/problems/longest-duplicate-substring/
+* Day 20 - https://leetcode.com/problems/permutation-sequence/
+* Day 21 - https://leetcode.com/problems/dungeon-game/
+* Day 22 - https://leetcode.com/problems/single-number-ii/
