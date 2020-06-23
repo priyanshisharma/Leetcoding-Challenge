@@ -61,3 +61,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 20 - https://leetcode.com/problems/permutation-sequence/
 * Day 21 - https://leetcode.com/problems/dungeon-game/
 * Day 22 - https://leetcode.com/problems/single-number-ii/
+* Day 23 - https://leetcode.com/problems/count-complete-tree-nodes/
