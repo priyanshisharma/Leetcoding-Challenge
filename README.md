@@ -62,3 +62,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 21 - https://leetcode.com/problems/dungeon-game/
 * Day 22 - https://leetcode.com/problems/single-number-ii/
 * Day 23 - https://leetcode.com/problems/count-complete-tree-nodes/
+* Day 24 - https://leetcode.com/problems/unique-binary-search-trees/
