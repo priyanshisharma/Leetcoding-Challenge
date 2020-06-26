@@ -63,3 +63,5 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 22 - https://leetcode.com/problems/single-number-ii/
 * Day 23 - https://leetcode.com/problems/count-complete-tree-nodes/
 * Day 24 - https://leetcode.com/problems/unique-binary-search-trees/
+* Day 25 - https://leetcode.com/problems/find-the-duplicate-number/
+* Day 26 - https://leetcode.com/problems/sum-root-to-leaf-numbers/
