@@ -65,3 +65,6 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 24 - https://leetcode.com/problems/unique-binary-search-trees/
 * Day 25 - https://leetcode.com/problems/find-the-duplicate-number/
 * Day 26 - https://leetcode.com/problems/sum-root-to-leaf-numbers/
+* Day 27 - https://leetcode.com/problems/perfect-squares/
+* Day 28 - https://leetcode.com/problems/reconstruct-itinerary/
+* Day 29 - https://leetcode.com/problems/unique-paths/
