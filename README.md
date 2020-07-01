@@ -68,3 +68,10 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 27 - https://leetcode.com/problems/perfect-squares/
 * Day 28 - https://leetcode.com/problems/reconstruct-itinerary/
 * Day 29 - https://leetcode.com/problems/unique-paths/
+* Day 30 - https://leetcode.com/problems/word-search-ii/
+
+# July-Leetcoding-Challenge
+
+This repository contains the solutions I submitted during the June Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+
+* Day 1 - https://leetcode.com/problems/arranging-coins/
