@@ -76,3 +76,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 
 * Day 1 - https://leetcode.com/problems/arranging-coins/
 * Day 2 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+* Day 3 - https://leetcode.com/problems/prison-cells-after-n-days/
