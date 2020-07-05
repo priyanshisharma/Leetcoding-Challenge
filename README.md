@@ -78,3 +78,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 2 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 * Day 3 - https://leetcode.com/problems/prison-cells-after-n-days/
 * Day 4 - https://leetcode.com/problems/ugly-number-ii/
+* Day 5 - https://leetcode.com/problems/hamming-distance/
