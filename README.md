@@ -80,3 +80,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 4 - https://leetcode.com/problems/ugly-number-ii/
 * Day 5 - https://leetcode.com/problems/hamming-distance/
 * Day 6 - https://leetcode.com/problems/plus-one/
+* Day 7 - https://leetcode.com/problems/island-perimeter/
