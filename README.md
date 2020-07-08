@@ -81,3 +81,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 5 - https://leetcode.com/problems/hamming-distance/
 * Day 6 - https://leetcode.com/problems/plus-one/
 * Day 7 - https://leetcode.com/problems/island-perimeter/
+* Day 8 - https://leetcode.com/problems/3sum/
