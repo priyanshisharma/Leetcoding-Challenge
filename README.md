@@ -82,3 +82,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 6 - https://leetcode.com/problems/plus-one/
 * Day 7 - https://leetcode.com/problems/island-perimeter/
 * Day 8 - https://leetcode.com/problems/3sum/
+* Day 9 - https://leetcode.com/problems/maximum-width-of-binary-tree/
