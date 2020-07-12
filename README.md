@@ -85,3 +85,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 9 - https://leetcode.com/problems/maximum-width-of-binary-tree/
 * Day 10 - https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 * Day 11 - https://leetcode.com/problems/subsets/
+* Day 12 - https://leetcode.com/problems/reverse-bits/
