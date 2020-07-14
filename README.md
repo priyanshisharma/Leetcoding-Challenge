@@ -1,89 +1,20 @@
-# May-Leetcoding-Challenge
+# Leetcoding Challenge
 
-This repository contains the solutions I submitted during the May Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+This repository has been created while I solve different Leetcoding Challenges which can be seen as follows.
+May - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
+June - https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/
+July - https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/
 
-* Day 1 - https://leetcode.com/problems/first-bad-version/
-* Day 2 - https://leetcode.com/problems/jewels-and-stones/
-* Day 3 - https://leetcode.com/problems/ransom-note/
-* Day 4 - https://leetcode.com/problems/number-complement/
-* Day 5 - https://leetcode.com/problems/first-unique-character-in-a-string/
-* Day 6 - https://leetcode.com/problems/majority-element/
-* Day 7 - https://leetcode.com/problems/cousins-in-binary-tree/
-* Day 8 -https://leetcode.com/problems/check-if-it-is-a-straight-line/
-* Day 9 - https://leetcode.com/problems/valid-perfect-square/
-* Day 10 - https://leetcode.com/problems/find-the-town-judge/
-* Day 11 - https://leetcode.com/problems/flood-fill/
-* Day 12 - https://leetcode.com/problems/single-element-in-a-sorted-array/
-* Day 13 - https://leetcode.com/problems/remove-k-digits/
-* Day 14 - https://leetcode.com/problems/implement-trie-prefix-tree/
-* Day 15 - https://leetcode.com/problems/maximum-sum-circular-subarray/
-* Day 16 - https://leetcode.com/problems/odd-even-linked-list/
-* Day 17 - https://leetcode.com/problems/find-all-anagrams-in-a-string/
-* Day 18 - https://leetcode.com/problems/permutation-in-string/
-* Day 19 - https://leetcode.com/problems/online-stock-span/
-* Day 20 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-* Day 21 - https://leetcode.com/problems/count-square-submatrices-with-all-ones/
-* Day 22 - https://leetcode.com/problems/sort-characters-by-frequency/
-* Day 23 - https://leetcode.com/problems/interval-list-intersections/
-* Day 24 - https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
-* Day 25 - https://leetcode.com/problems/uncrossed-lines/
-* Day 26 - https://leetcode.com/problems/contiguous-array/
-* Day 27 - https://leetcode.com/problems/possible-bipartition/
-* Day 28 - https://leetcode.com/problems/counting-bits/
-* Day 29 - https://leetcode.com/problems/course-schedule/
-* Day 30 - https://leetcode.com/problems/k-closest-points-to-origin/
-* Day 31 - https://leetcode.com/problems/edit-distance/
+This repository has been divided according to months.
 
+Leetcoding challenges for me about *consistency and variety*!
+**Consistency** - Since they come up everyday
+**Variety** - Since they come up with all sorts of questions.
 
-# June-Leetcoding-Challenge
+And so this repository also demonstrates those attributes of mine, that I'm a strong believer that consistently working on anything builds your strength and skills, and I also really appreciate variety, whether it be a variety of approaches, a variety of technologies etc. I would also like to throw light on the fact that I'm well acquainted with a variety of data structures and algorithms that helps me get through these challenges!
+That was why I especially like Leetcoding challenges and maintain a repository for it.
 
-This repository contains the solutions I submitted during the June Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+You're welcome to have a look at my code, you might wanna see how it improves over time or might wanna see how a prticular question is solved (In that case if you're reading this, refrain from copy-pasting and try to understand the approach and learn a new technique).
+Feel free to raise an issue if you find something just doesn't look right or have doubts anywhere!
 
-* Day 1 - https://leetcode.com/problems/invert-binary-tree/
-* Day 2 - https://leetcode.com/problems/delete-node-in-a-linked-list/
-* Day 3 - https://leetcode.com/problems/two-city-scheduling/
-* Day 4 - https://leetcode.com/problems/reverse-string/
-* Day 5 - https://leetcode.com/problems/random-pick-with-weight/
-* Day 6 - https://leetcode.com/problems/queue-reconstruction-by-height/
-* Day 7 - https://leetcode.com/problems/coin-change-2/
-* Day 8 - https://leetcode.com/problems/power-of-two/
-* Day 9 - https://leetcode.com/problems/is-subsequence/
-* Day 10 - https://leetcode.com/problems/search-insert-position/
-* Day 11 - https://leetcode.com/problems/sort-colors/
-* Day 12 - https://leetcode.com/problems/insert-delete-getrandom-o1/
-* Day 13 - https://leetcode.com/problems/largest-divisible-subset/
-* Day 14 - https://leetcode.com/problems/cheapest-flights-within-k-stops/
-* Day 15 - https://leetcode.com/problems/search-in-a-binary-search-tree/
-* Day 16 - https://leetcode.com/problems/validate-ip-address/
-* Day 17 - https://leetcode.com/problems/surrounded-regions/
-* Day 18 - https://leetcode.com/problems/h-index-ii/
-* Day 19 - https://leetcode.com/problems/longest-duplicate-substring/
-* Day 20 - https://leetcode.com/problems/permutation-sequence/
-* Day 21 - https://leetcode.com/problems/dungeon-game/
-* Day 22 - https://leetcode.com/problems/single-number-ii/
-* Day 23 - https://leetcode.com/problems/count-complete-tree-nodes/
-* Day 24 - https://leetcode.com/problems/unique-binary-search-trees/
-* Day 25 - https://leetcode.com/problems/find-the-duplicate-number/
-* Day 26 - https://leetcode.com/problems/sum-root-to-leaf-numbers/
-* Day 27 - https://leetcode.com/problems/perfect-squares/
-* Day 28 - https://leetcode.com/problems/reconstruct-itinerary/
-* Day 29 - https://leetcode.com/problems/unique-paths/
-* Day 30 - https://leetcode.com/problems/word-search-ii/
-
-# July-Leetcoding-Challenge
-
-This repository contains the solutions I submitted during the July Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
-
-* Day 1 - https://leetcode.com/problems/arranging-coins/
-* Day 2 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-* Day 3 - https://leetcode.com/problems/prison-cells-after-n-days/
-* Day 4 - https://leetcode.com/problems/ugly-number-ii/
-* Day 5 - https://leetcode.com/problems/hamming-distance/
-* Day 6 - https://leetcode.com/problems/plus-one/
-* Day 7 - https://leetcode.com/problems/island-perimeter/
-* Day 8 - https://leetcode.com/problems/3sum/
-* Day 9 - https://leetcode.com/problems/maximum-width-of-binary-tree/
-* Day 10 - https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
-* Day 11 - https://leetcode.com/problems/subsets/
-* Day 12 - https://leetcode.com/problems/reverse-bits/
-* Day 13 - https://leetcode.com/problems/angle-between-hands-of-a-clock/
+Happy Learning!
