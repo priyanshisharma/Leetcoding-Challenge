@@ -21,5 +21,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 17 - https://leetcode.com/problems/top-k-frequent-elements/
 * Day 18 - https://leetcode.com/problems/course-schedule-ii/
 * Day 19 - https://leetcode.com/problems/add-binary/
-* Day 20 - https://leetcode.com/problems/add-binary/
-* Day 21 - https://leetcode.com/problems/remove-linked-list-elements/
+* Day 20 - https://leetcode.com/problems/remove-linked-list-elements/
