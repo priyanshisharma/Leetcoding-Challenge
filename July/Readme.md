@@ -23,3 +23,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 19 - https://leetcode.com/problems/add-binary/
 * Day 20 - https://leetcode.com/problems/remove-linked-list-elements/
 * Day 21 - https://leetcode.com/problems/word-search/
+* Day 22 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
