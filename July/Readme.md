@@ -29,3 +29,5 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 25 - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 * Day 26 - https://leetcode.com/problems/add-digits/
 * Day 27 - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+* Day 28 - https://leetcode.com/problems/task-scheduler/
+* Day 29 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
