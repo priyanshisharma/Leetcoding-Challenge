@@ -31,3 +31,4 @@ This repository contains the solutions I submitted during the July Leetcoding Ch
 * Day 27 - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 * Day 28 - https://leetcode.com/problems/task-scheduler/
 * Day 29 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+* Day 30 - https://leetcode.com/problems/word-break-ii/
