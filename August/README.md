@@ -6,3 +6,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 2 - https://leetcode.com/problems/design-hashset/
 * Day 3 - https://leetcode.com/problems/valid-palindrome/
 * Day 4 - https://leetcode.com/problems/power-of-four/
+* Day 5 - https://leetcode.com/problems/add-and-search-word-data-structure-design/
