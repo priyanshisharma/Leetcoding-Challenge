@@ -12,3 +12,5 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 8 - https://leetcode.com/problems/path-sum-iii/
 * Day 9 - https://leetcode.com/problems/rotting-oranges/
 * Day 10 - https://leetcode.com/problems/excel-sheet-column-number/
+* Day 11 - https://leetcode.com/problems/h-index/
+* Day 12 - https://leetcode.com/problems/pascals-triangle-ii/
