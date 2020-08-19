@@ -20,3 +20,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 16 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 * Day 17 - https://leetcode.com/problems/distribute-candies-to-people/
 * Day 18 - https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+* Day 19 - https://leetcode.com/problems/goat-latin/
