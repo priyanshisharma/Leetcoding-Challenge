@@ -22,3 +22,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 18 - https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 * Day 19 - https://leetcode.com/problems/goat-latin/
 * Day 20 - https://leetcode.com/problems/reorder-list/
+* Day 21 - https://leetcode.com/problems/sort-array-by-parity/
