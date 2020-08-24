@@ -23,3 +23,6 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 19 - https://leetcode.com/problems/goat-latin/
 * Day 20 - https://leetcode.com/problems/reorder-list/
 * Day 21 - https://leetcode.com/problems/sort-array-by-parity/
+* Day 22 - https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+* Day 23 - https://leetcode.com/problems/stream-of-characters/
+* Day 24 - https://leetcode.com/problems/sum-of-left-leaves/
