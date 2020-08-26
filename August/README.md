@@ -26,3 +26,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 22 - https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 * Day 23 - https://leetcode.com/problems/stream-of-characters/
 * Day 24 - https://leetcode.com/problems/sum-of-left-leaves/
+* Day 25 - https://leetcode.com/problems/minimum-cost-for-tickets/
