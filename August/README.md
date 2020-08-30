@@ -31,3 +31,4 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 28 - https://leetcode.com/problems/find-right-interval/
 * Day 29 - https://leetcode.com/problems/implement-rand10-using-rand7/
 * Day 30 - https://leetcode.com/problems/pancake-sorting/
+* Day 31 - https://leetcode.com/problems/largest-component-size-by-common-factor/
