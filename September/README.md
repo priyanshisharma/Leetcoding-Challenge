@@ -6,3 +6,4 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 2 - https://leetcode.com/problems/contains-duplicate-iii/
 * Day 3 - https://leetcode.com/problems/repeated-substring-pattern/
 * Day 4 - https://leetcode.com/problems/partition-labels/
+* Day 5 - https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
