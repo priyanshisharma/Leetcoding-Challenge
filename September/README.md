@@ -9,3 +9,4 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 5 - https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 * Day 6 - https://leetcode.com/problems/image-overlap/
 * Day 7 - https://leetcode.com/problems/word-pattern/
+* Day 8 - https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
