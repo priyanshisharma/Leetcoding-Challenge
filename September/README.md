@@ -11,3 +11,4 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 7 - https://leetcode.com/problems/word-pattern/
 * Day 8 - https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 * Day 9 - https://leetcode.com/problems/compare-version-numbers/
+* Day 10 - https://leetcode.com/problems/bulls-and-cows/
