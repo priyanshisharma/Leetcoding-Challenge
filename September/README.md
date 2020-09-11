@@ -12,3 +12,4 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 8 - https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 * Day 9 - https://leetcode.com/problems/compare-version-numbers/
 * Day 10 - https://leetcode.com/problems/bulls-and-cows/
+* Day 11 - https://leetcode.com/problems/maximum-product-subarray/
