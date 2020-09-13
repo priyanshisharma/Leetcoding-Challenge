@@ -13,3 +13,5 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 9 - https://leetcode.com/problems/compare-version-numbers/
 * Day 10 - https://leetcode.com/problems/bulls-and-cows/
 * Day 11 - https://leetcode.com/problems/maximum-product-subarray/
+* Day 12 - https://leetcode.com/problems/combination-sum-iii/
+* Day 13 - https://leetcode.com/problems/insert-interval/
