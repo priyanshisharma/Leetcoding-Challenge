@@ -17,3 +17,6 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 13 - https://leetcode.com/problems/insert-interval/
 * Day 14 - https://leetcode.com/problems/house-robber/
 * Day 15 - https://leetcode.com/problems/length-of-last-word/
+* Day 16 - https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+* Day 17 - https://leetcode.com/problems/robot-bounded-in-circle/
+* Day 18 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
