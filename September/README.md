@@ -20,3 +20,4 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 16 - https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 * Day 17 - https://leetcode.com/problems/robot-bounded-in-circle/
 * Day 18 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+* Day 19 - https://leetcode.com/problems/sequential-digits/
