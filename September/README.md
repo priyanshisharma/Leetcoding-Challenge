@@ -24,3 +24,5 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 20 - https://leetcode.com/problems/unique-paths-iii/
 * Day 21 - https://leetcode.com/problems/car-pooling/
 * Day 22 - https://leetcode.com/problems/majority-element-ii/
+* Day 23 - https://leetcode.com/problems/gas-station/
+* Day 24 - https://leetcode.com/problems/find-the-difference/
