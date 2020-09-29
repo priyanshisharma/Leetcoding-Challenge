@@ -28,7 +28,8 @@ This repository contains the solutions I submitted during the June Leetcoding Ch
 * Day 24 - https://leetcode.com/problems/sum-of-left-leaves/
 * Day 25 - https://leetcode.com/problems/minimum-cost-for-tickets/
 * Day 26 - https://leetcode.com/problems/fizz-buzz/
-* Day 28 - https://leetcode.com/problems/find-right-interval/
-* Day 29 - https://leetcode.com/problems/implement-rand10-using-rand7/
-* Day 30 - https://leetcode.com/problems/pancake-sorting/
-* Day 31 - https://leetcode.com/problems/largest-component-size-by-common-factor/
+* Day 27 - https://leetcode.com/problems/find-right-interval/
+* Day 28 - https://leetcode.com/problems/implement-rand10-using-rand7/
+* Day 29 - https://leetcode.com/problems/pancake-sorting/
+* Day 30 - https://leetcode.com/problems/largest-component-size-by-common-factor/
+* Day 31 - https://leetcode.com/problems/delete-node-in-a-bst/
