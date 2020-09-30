@@ -1,0 +1,73 @@
+class Solution {
+public:
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        
+        // result vector
+        vector<vector<int>>result;
+        
+        // given intervals is empty
+        if(intervals.empty())
+        {
+            result.push_back(newInterval);
+            return result;
+        }
+        
+        // new interval start c and end d
+        // Also tracks the start and end of new or merged interval
+        int c = newInterval[0];
+        int d = newInterval[1];
+        
+        // Loop through given intervals and find if any merge possible with intervals items and new interval
+        for(int i=0;i<intervals.size();i++)
+        {
+            int a = intervals[i][0];    // start of ith interval
+            int b = intervals[i][1];    // end of ith interval
+            
+            // possible merge with ith interval
+            if(!((c<a && d<a) || (b<c && b<d)))
+            {
+                c = min(c,a);   // merge start = min(a,c)
+                d = max(d,b);   // merge end = max(b,d)
+            }
+            
+            // no merge possible
+            else
+            {
+                // new or merge interval start < current interval start => insert new or merge interval
+                if(c<a)
+                {
+                    result.push_back(vector<int>{c,d});
+                    
+                    // update new or merge interval
+                    c = a;
+                    d = b;                                    
+                }
+                
+                // otherwise insert current interval
+                else
+                {
+                    result.push_back(vector<int>{a,b});                    
+                }
+            }
+        }
+        
+        // safety check if result vector is empty
+        if(result.empty())
+        {
+            result.push_back(vector<int>{c,d});
+        }
+        else
+        {
+            // check if merge interval is already merged in last interval of result vector 
+            // if not merged then insert the merge interval
+            int a = result.back()[0];
+            int b = result.back()[1];
+            if(((c<a && d<a) || (b<c && b<d)))
+            {
+                result.push_back(vector<int>{c,d});
+            }            
+        }
+         
+        return result;
+    }
+};
