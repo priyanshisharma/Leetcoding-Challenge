@@ -13,7 +13,7 @@ public:
             if(n-i>=0){
             v.push_back(i);
             go(ans,v,k-1,n-i,i);
-            v.pop_back();
+            v.pop_back(); 
             }
         }
     }
