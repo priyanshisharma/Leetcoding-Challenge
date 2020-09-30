@@ -9,6 +9,7 @@ struct Node {
       child[i] = NULL;
    }
 };
+
 class StreamChecker {
    public:
    Node* head;
@@ -24,6 +25,7 @@ class StreamChecker {
       }
       curr->isEnd = true;
    }
+   
    StreamChecker(vector<string>& words){
       head = new Node();
       for (int i = 0; i < words.size(); i++) {
@@ -31,6 +33,7 @@ class StreamChecker {
       }
       Node* curr = head;
    }
+   
    bool query(char x){
       vector<Node*> temp;
       if (head->child[x - 'a']) {
