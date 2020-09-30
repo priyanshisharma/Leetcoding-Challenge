@@ -10,12 +10,11 @@ public:
             return;
     
         for(int i=lst+1;i<=9;i++){
-            if(n-i>=0){
             v.push_back(i);
             go(ans,v,k-1,n-i,i);
             v.pop_back(); 
-            }
         }
+        
     }
     
     vector<vector<int>> combinationSum3(int k, int n) {
