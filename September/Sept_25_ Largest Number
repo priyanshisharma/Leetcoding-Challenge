@@ -1,0 +1,33 @@
+class Solution {
+public:
+    static bool comp(string X, string Y){
+        string XY= X.append(Y);
+        
+        string YX= Y.append(X);
+        
+        return XY>YX;
+    }
+    string largestNumber(vector<int>& nums) {
+        
+        vector<string>  num;
+        for(int i=0;i<nums.size();i++)
+        {
+            num.push_back(to_string(nums[i]));
+        }
+        sort(num.begin(), num.end(), comp);
+        string ans="";
+         int cnt=0;
+        for(int i=0;i<num.size();i++){
+            ans+=num[i];
+            if(num[i]=="0"){
+                cnt++;
+            }
+        }
+       
+        if(cnt==num.size()){
+            ans="0";
+        }
+        
+        return ans;
+    }
+};
