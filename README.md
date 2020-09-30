@@ -1,4 +1,4 @@
-# Leetcoding Challenge
+# Leetcoding Challenge in C++
 
 This repository has been created while I solve different Leetcoding Challenges which can be seen as follows.
 * May - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
