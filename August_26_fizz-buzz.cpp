@@ -1,14 +1,14 @@
 class Solution {
-public
+public:
     vectorstring fizzBuzz(int n) {
         vectorstring s;
         for(int i=1; in+1; i++){
             if(i%3==0 && i%5==0){
-                s.push_back(FizzBuzz);
+                s.push_back("FizzBuzz");
             }else if(i%3==0){
-                s.push_back(Fizz);
+                s.push_back("Fizz");
             }else if(i%5==0){
-                s.push_back(Buzz);
+                s.push_back("Buzz");
             }else{
                 string st = to_string(i);
                 s.push_back(st);
