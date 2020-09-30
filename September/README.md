@@ -26,3 +26,9 @@ This repository contains the solutions I submitted during the September Leetcodi
 * Day 22 - https://leetcode.com/problems/majority-element-ii/
 * Day 23 - https://leetcode.com/problems/gas-station/
 * Day 24 - https://leetcode.com/problems/find-the-difference/
+* Day 25 - https://leetcode.com/problems/largest-number/
+* Day 26 - https://leetcode.com/problems/teemo-attacking/
+* Day 27 - https://leetcode.com/problems/evaluate-division/
+* Day 28 - https://leetcode.com/problems/subarray-product-less-than-k/
+* Day 29 - https://leetcode.com/problems/word-break/
+* Day 30 - https://leetcode.com/problems/first-missing-positive/
