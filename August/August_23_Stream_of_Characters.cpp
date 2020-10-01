@@ -53,8 +53,8 @@ class StreamChecker {
 		            }
 		            root->is_leaf = true; // Mark node as end of word(leaf)
 		        }
-            	    bool is_leaf; // Bool variable to mark if a given node is end of word(leaf)
-		    Trie* children[26]; // Array to store if character index exists in Trie
+            	        bool is_leaf; // Bool variable to mark if a given node is end of word(leaf)
+		        Trie* children[26]; // Array to store if character index exists in Trie
 	    };
     Trie trie;
     vector<char> queries; // Vector to store stream of queries
