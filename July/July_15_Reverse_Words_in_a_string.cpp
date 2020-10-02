@@ -1,5 +1,31 @@
 class Solution {
 public:
+    
+    // Aded shorter code for reversing words in given string
+    
+    string reverseWords(string s) {
+        stringstream ss(s);
+        string r,ans="";
+        
+        vector<string> str;
+        
+        
+        while(ss >> r) {
+            str.push_back(r);
+        }
+        
+        for(int i = int(str.size())-1; i>=0; --i) {
+            ans += str[i];
+            ans+=" ";
+        }
+        ans.pop_back();
+        
+        return ans;
+    }
+    
+    
+    
+    
     string strrev(string g)
     {
         string d;
@@ -7,6 +33,8 @@ public:
             d.push_back(g[i]);
         return d;
     }
+    
+    
     string reverseWords(string s) {
         
       
