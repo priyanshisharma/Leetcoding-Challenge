@@ -1,6 +1,12 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+    	string r = s;
+	reverse(begin(r),end(r));
+	return (s==r);
+    }	    
+	
+    bool isPalindrome(string s) {
         
        int beg=0, end=s.size()-1;
         while(beg<end)
