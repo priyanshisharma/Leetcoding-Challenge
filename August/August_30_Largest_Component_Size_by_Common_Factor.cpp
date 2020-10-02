@@ -36,7 +36,7 @@ public:
                     DSU.merge(x,x/k);
                 }
             }
-        }3
+        }
         unordered_map<int,int> m;
         int res=1;
         for(auto v:A){
