@@ -6,7 +6,7 @@ This repository has been created while I solve different Leetcoding Challenges w
 * July - https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/
 * August - https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/
 * September - https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/
-
+* October - https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/
 This repository has been divided according to months.
 
 Leetcoding challenges for me about *consistency and variety*!
