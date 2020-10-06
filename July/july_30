@@ -1,0 +1,64 @@
+myarray=newarray=[]
+globalstring=''
+def checkstring(string,globalstring):
+    n=len(string)
+    if(globalstring[:n]==string):
+        return True
+    else:
+        return False
+    
+def findstring(s,wordDict,mainstring,globalstring):
+    #iterating through the non empty string
+    for i in range(1,len(s)+1):
+        #slicing the string and storing it in a temp var
+        x=s[:i]
+        #checking if the sliced string matches with any word
+        #all that is left
+        left=s[i:]
+        print(x,left)
+        if x in wordDict:
+            print('found a word',x)
+            mainstring=mainstring+x+' '
+            print('\n'+mainstring+'\n')    
+            #if X is the last word i.e nothing left
+            strings=mainstring.split(' ')
+            #checking if the first owrd in our string
+            #is same as the first word in s
+            if left=='': 
+                if checkstring(strings[0],globalstring):
+                    myarray.append(mainstring[:-1])
+                    print('appended',mainstring)
+                    mainstring=''
+                    break
+                else:                    
+                    return mainstring            
+            else:
+                #if there is something still left
+                y=findstring(left,wordDict,mainstring,globalstring)
+                if(y!=''):
+                    print('accepted and returned ',mainstring,',',x,',',left,',',s,',',y)
+                    #if returned value is for mainstring
+                    if(s==globalstring):
+                        print('accepted and returned ',mainstring,',',x,',',left,',',s,',',y)
+                        myarray.append(mainstring+y)
+                    else:
+                        return y
+            #clear mainstring
+            mainstring=''    
+                    
+                
+        else:
+            continue
+    print('loop end')
+    newarray=myarray
+    return ''
+class Solution:
+    #array in which solution will be returned is myarray[]
+    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+        myarray=[]
+        globalstring=s
+        findstring(s,wordDict,'',globalstring)
+        #clear myarray
+        
+        return newarray
+    
