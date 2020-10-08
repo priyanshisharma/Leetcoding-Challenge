@@ -1,17 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        
-        int x;
-        while(cin>>x){
-            nums.push_back(x);
-        }
-        	int B[1000001];
+          
+      	int B[1000001];
 	for(int i=0;i<=1000000;i++)
 	B[i]=0;
-	for(int i=0;i<nums.length;i++)
+	for(int i=0;i<nums.size();i++)
 	{
-	                        
 		B[nums[i]]++;
 	}
 	for(int i=0;i<=1000000;i++)
@@ -22,6 +17,6 @@ public:
 			break;
 		}
 	}
-
+	return 0;
     }
 };
