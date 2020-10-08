@@ -11,9 +11,7 @@ public:
                 if (sum == k)                   
                    count++;
             }
-        }
-        cout<<count;
-        
-      return 0;
+	 }        
+      return count;
     }
 };
