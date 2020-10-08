@@ -9,14 +9,15 @@ public:
 	{
 		B[nums[i]]++;
 	}
+	    int r;
 	for(int i=0;i<=1000000;i++)
 	{
 		if(B[i]==1)
 		{
-			cout<<i;
+			r=i;
 			break;
 		}
 	}
-	return 0;
+	return r;
     }
 };
