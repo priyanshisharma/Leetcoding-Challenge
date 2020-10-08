@@ -1,23 +1,19 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        
-        int x;
-        while(cin>>x)
-            nums.push_back(x);
 	
 	int count=0;
-	 for (int i = 0; i < nums.length; i++) {   
+	 for (int i = 0; i < nums.size(); i++) {   
             int sum = 0;
-            for (int j = i; j < n; j++) {
+            for (int j = i; j < nums.size(); j++) {
             	
-                sum += A[j];
+                sum += nums[j];
                 if (sum == k)                   
                    count++;
             }
         }
         cout<<count;
         
-        
+      return 0;
     }
 };
