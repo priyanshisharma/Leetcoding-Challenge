@@ -1,6 +1,6 @@
 # June-Leetcoding-Challenge
 
-This repository contains the solutions I submitted during the June Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+This repository contains the solutions to the June Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
 
 * Day 1 - https://leetcode.com/problems/invert-binary-tree/
 * Day 2 - https://leetcode.com/problems/delete-node-in-a-linked-list/

@@ -1,6 +1,6 @@
 # May-Leetcoding-Challenge
 
-This repository contains the solutions I submitted during the May Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+This repository contains the solutions to the May Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
 
 * Day 1 - https://leetcode.com/problems/first-bad-version/
 * Day 2 - https://leetcode.com/problems/jewels-and-stones/

@@ -1,6 +1,6 @@
 # July-Leetcoding-Challenge
 
-This repository contains the solutions I submitted during the July Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
+This repository contains the solutions to the July Leetcoding Challenge. Below are the links of questions on LeetCode if you wish to try them yourself!
 
 * Day 1 - https://leetcode.com/problems/arranging-coins/
 * Day 2 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/

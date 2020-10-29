@@ -7,7 +7,6 @@ This repository has been created while I solve different Leetcoding Challenges w
 * August - https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/
 * September - https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/
 * October - https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/
-This repository has been divided according to months.
 
 Leetcoding challenges for me about *consistency and variety*!
 * **Consistency** - Since they come up everyday
@@ -22,3 +21,12 @@ Feel free to raise an issue if you find something just doesn't look right or hav
 Also checkout my Leetcode profile at https://leetcode.com/priyanshi417/
 
 ***Happy Learning!***
+
+# Hacktoberfest
+This repository was opened for contributions in Hacktoberfest.
+
+Me, Priyanshi Sharma made her first PR in Hacktoberfest which makes this event really special to me. This repository looked beginner friemdly, meaningful and seemed to need some work, and so I gladly opened this for Hacktoberfest to help people with contributions along with completing the repository in the year 2020.
+
+I'm very happy with how it turned out! 
+
+***Kudos to the community!***
