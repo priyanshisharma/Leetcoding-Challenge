@@ -4,3 +4,4 @@ This folder contains my solutions to the November Leetcoding Challenge. Below ar
 
 * Day 1 - https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 * Day 2 - https://leetcode.com/problems/insertion-sort-list/
+* Day 3 - https://leetcode.com/problems/consecutive-characters/
