@@ -10,3 +10,5 @@ This folder contains my solutions to the November Leetcoding Challenge. Below ar
 * Day 6 - https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 * Day 7 - https://leetcode.com/problems/add-two-numbers-ii/
 * Day 8 - https://leetcode.com/problems/binary-tree-tilt/
+* Day 9 - https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+* Day 10 - https://leetcode.com/problems/flipping-an-image/
