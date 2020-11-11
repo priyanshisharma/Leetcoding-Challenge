@@ -12,3 +12,4 @@ This folder contains my solutions to the November Leetcoding Challenge. Below ar
 * Day 8 - https://leetcode.com/problems/binary-tree-tilt/
 * Day 9 - https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 * Day 10 - https://leetcode.com/problems/flipping-an-image/
+* Day 11 - https://leetcode.com/problems/valid-square/
