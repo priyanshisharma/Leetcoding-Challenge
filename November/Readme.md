@@ -15,3 +15,4 @@ This folder contains my solutions to the November Leetcoding Challenge. Below ar
 * Day 11 - https://leetcode.com/problems/valid-square/
 * Day 12 - https://leetcode.com/problems/permutations-ii/
 * Day 13 - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+* Day 14 - https://leetcode.com/problems/poor-pigs/
