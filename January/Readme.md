@@ -7,3 +7,4 @@ This contains the solutions to the January Leetcoding Challenge. Below are the l
 * Day 3 - https://leetcode.com/problems/beautiful-arrangement/
 * Day 4 - https://leetcode.com/problems/merge-two-sorted-lists/
 * Day 5 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+* day 6 - https://leetcode.com/problems/kth-missing-positive-number/
