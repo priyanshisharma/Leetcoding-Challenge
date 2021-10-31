@@ -1,14 +1,6 @@
 # Leetcoding Challenge
 
-This repository has been created while I solve different Leetcoding Challenges which can be seen as follows.
-* May - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
-* June - https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/
-* July - https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/
-* August - https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/
-* September - https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/
-* October - https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/
-
-Leetcoding challenges for me about *consistency and variety*!
+This repository has been created while I solve different Leetcoding Challenges. Leetcoding challenges for me about *consistency and variety*!
 * **Consistency** - Since they come up everyday
 * **Variety** - Since they come up with all sorts of questions.
 
